@@ -1,0 +1,4 @@
+# ninja log v5
+2	269	6814078389189725	build.ninja	409964a543803090
+1	1743	6814078406079913	CMakeFiles/my_first_cmake_program.dir/get_Name.cpp.obj	d7d5a204cef60f4d
+1744	2356	6814078411875478	my_first_cmake_program.exe	9197d106fcf73e79
